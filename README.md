@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaheryar110&show_icons=true&locale=en" alt="shaheryar110" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheryar110&" alt="shaheryar110" /></p>
